@@ -15,6 +15,7 @@ h2{
 p{
   color: white;
   font-size: 16px;
+  text-align: center;
   font-family: "Courier New", Arial, sans-serif;
   line-height: 1.7
 }
@@ -22,6 +23,7 @@ p{
 /* Body & Section*/
 body{
   background-color: #c1a1d1;
+  text-align: center;
   font-family: "Courier New", Arial, sans-serif;
 }
 
