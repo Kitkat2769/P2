@@ -29,6 +29,12 @@ body{
 
 
 /* Navigation Bar */
+nav{
+  color: white;
+  font-size: 20px;
+  font-family: "Courier New", Arial, sans-serif;
+  text-align: center;
+}
 
 
 
