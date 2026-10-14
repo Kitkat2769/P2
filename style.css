@@ -2,23 +2,33 @@
 h1{
   color: white;
   font-size: 32px;
-  text-align: center
-  font-family: Courier New, Arial;
+  text-align: center;
+  font-family: "Courier New", Arial, sans-serif;
 }
 h2{
   color: white;
   font-size: 24px;
   text-align: center;
-  font-family: Courier New, Arial;
+  font-family: "Courier New", Arial, sans-serif;
 }
 p{
   color: white;
   font-size: 16px;
-  font-family: Courier New, Arial;
+  font-family: "Courier New", Arial, sans-serif;
+  line-height: 1.7
 }
 
 /* Body & Section*/
 body{
-  background-color: #c1a1d1
-  font-family: Courier New, Arial;
+  background-color: #c1a1d1;
+  font-family: "Courier New", Arial, sans-serif;
 }
+
+
+/* Navigation Bar */
+
+
+
+
+
+
