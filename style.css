@@ -2,7 +2,12 @@
 
 /* Heading & Paragraph Style */
 h1{
-  color = #80549b;
+  color = #f8f0fc;
+  font-size = 24px;
+  text-align = center;
+}
+h2{
+  color = #f8f0fc;
   font-size = 24px;
   text-align = center;
 }
