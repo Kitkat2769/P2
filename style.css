@@ -1,1 +1,12 @@
 
+
+/* Heading & Paragraph Style */
+h1{
+  color = #80549b;
+  font-size = 24px;
+  text-align = center;
+}
+p{
+  color = #f8f0fc;
+  font-size = 16px;
+}
